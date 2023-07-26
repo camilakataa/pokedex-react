@@ -1,0 +1,7 @@
+.not-searched {
+    display: none;
+}
+
+.searched {
+    display: flex;
+}
