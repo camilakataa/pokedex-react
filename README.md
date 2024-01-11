@@ -6,6 +6,7 @@ Single Page Application (SPA) with React.JS to create the Pokédex consuming the
 ## Table of Contents
 
 - [Objective](#objective)
+- [Link](#link)
 - [Screenshot](#screenshot)
 - [Tools](#tools)
 - [Author](#author)
@@ -18,6 +19,11 @@ The Pokédex primary function is to provide information about various Pokémon s
 The main page contains 10 Pokémons, and the Load More Button at the end load more species.<br>
 With the Search Bar, it is possible to the user to search for a Pokémon with the name or ID of the Pokémon of his choice.<br>
 The page has two themes, light and dark. The user can change it by clicking on the Theme Toggler Button. 
+
+## Link
+
+This is the link to see the project: <br>
+https://pokedex-react-f37ixpqrs-camilakataa.vercel.app/
 
 ## Screenshot
 
